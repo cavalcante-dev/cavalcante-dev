@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, my name is Leandro Cavalcante 👋</h1>
 
 <p align="center">
-💻 Estudante de <strong>Ciência da Computação</strong> | 🚀 Aprendendo a programar | 🎯 Focado em crescer na tecnologia
+💻 Estudante de <strong>Ciência da Computação</strong> 
 </p>
 
 ---
@@ -52,5 +52,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cavalcante-dev&show_icons=true&locale=en&layout=compact" alt="cavalcante-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cavalcante-dev&show_icons=true&locale=en" alt="cavalcante-dev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cavalcante-dev&" alt="cavalcante-dev" /></p>
