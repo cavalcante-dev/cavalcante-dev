@@ -35,12 +35,15 @@
 ✅ Conquistar oportunidades na área de tecnologia. 
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cavalcante-dev&label=Profile%20views&color=0e75b6&style=flat" alt="cavalcante-dev" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cavalcante-dev&show_icons=true&locale=en&layout=compact" alt="cavalcante-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cavalcante-dev&show_icons=true&locale=en&layout=compact" alt="cavalcante-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cavalcante-dev&show_icons=true&locale=en" alt="cavalcante-dev" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cavalcante-dev&show_icons=true&locale=en" alt="cavalcante-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cavalcante-dev&" alt="cavalcante-dev" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cavalcante-dev&" alt="cavalcante-dev" /></p>
+
+---
 
 ## 🌎 Onde me encontrar  
 
@@ -50,10 +53,3 @@
 <p align="left">
 <a href="https://www.instagram.com/cavalcante.png/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-FF0069.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
-
-  
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cavalcante-dev&label=Profile%20views&color=0e75b6&style=flat" alt="cavalcante-dev" /> </p>
-
-
