@@ -40,6 +40,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cavalcante-dev&show_icons=true&locale=en" alt="cavalcante-dev" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cavalcante-dev&" alt="cavalcante-dev" /></p>
+
 ## 🌎 Onde me encontrar  
 
 <p align="left">
