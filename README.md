@@ -37,11 +37,11 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cavalcante-dev&label=Profile%20views&color=0e75b6&style=flat" alt="cavalcante-dev" /> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cavalcante-dev&show_icons=true&locale=en&layout=compact" alt="cavalcante-dev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cavalcante-dev&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="cavalcante-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cavalcante-dev&show_icons=true&locale=en" alt="cavalcante-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cavalcante-dev&show_icons=true&locale=en&theme=gruvbox" alt="cavalcante-dev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cavalcante-dev&" alt="cavalcante-dev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cavalcante-dev&theme=gruvbox" alt="cavalcante-dev" /></p>
 
 ---
 
