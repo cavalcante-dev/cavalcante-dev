@@ -3,6 +3,8 @@
 
 ---
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cavalcante-dev&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 👨🏻‍💻 About Me
 
 - 🎓 **1st-year Computer Science** student at **Centro Universitário UNA**
@@ -38,8 +40,8 @@
 
 ## 📊 Coding Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cavalcante-dev&show_icons=true&theme=gruvbox&hide_border=true" />
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=cavalcante-dev&show_icons=true&theme=gruvbox&hide_border=true" /> <br>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavalcante-dev&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
 
