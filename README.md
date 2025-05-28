@@ -17,6 +17,6 @@
 
 </p> 
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=cavalcante-dev&show_icons=true&theme=gruvbox&hide_border=true" align="left" /> 
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=cavalcante-dev&show_icons=true&theme=gruvbox&hide_border=true" align="left" /> 
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=cavalcante-dev&theme=gruvbox&hide_border=true" width="50%" align="right"> <br>
