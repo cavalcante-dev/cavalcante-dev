@@ -1,5 +1,4 @@
 <<h1 align="center">👋 Hello World! I'm Leandro Cavalcante</h1>
-<h3 align="center">A passionate Computer Science student diving into the world of code</h3>
 
 ---
 
@@ -7,10 +6,10 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🎓 **1st-year Computer Science** student at **Centro Universitário UNA**
-- 💡 Fascinated by problem-solving and building practical solutions
-- 🌱 Continuously learning and expanding my tech stack
-- 🚀 Aspiring backend developer with a focus on robust systems
+-  **1st-year Computer Science** student at **Centro Universitário UNA**
+-  Fascinated by problem-solving and building practical solutions
+-  Continuously learning and expanding my tech stack
+-  Aspiring backend developer with a focus on robust systems
 
 ---
 
