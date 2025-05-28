@@ -1,7 +1,3 @@
-
----
-<img width="100%" src="https://media1.tenor.com/m/K0_Toybd0QsAAAAd/disco-elysium-two-birds-on-a-wire.gif" align="center" /> <br>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cavalcante-dev&theme=gruvbox)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left"> 
@@ -19,4 +15,9 @@
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=cavalcante-dev&show_icons=true&theme=gruvbox&hide_border=true" align="left" /> 
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=cavalcante-dev&theme=gruvbox&hide_border=true" width="50%" align="right"> <br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=cavalcante-dev&theme=gruvbox&hide_border=true" width="50%" align="right"> <br> <br><br><br><br><br><br><br>
+
+<br> <p>
+<img width="100%" src="https://media1.tenor.com/m/K0_Toybd0QsAAAAd/disco-elysium-two-birds-on-a-wire.gif" align="center" /> <br>    
+</p>
+
