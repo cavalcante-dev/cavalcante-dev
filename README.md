@@ -6,14 +6,21 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=cavalcante-dev&color=fe8019&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/leandro-cavalcante-lnkin/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-cavalcante-lnkin/" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/cavalcante.png/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/cavalcante.png/" alt="Instagram"/></a>
+</p>
+
 <p>
-    <h3> 
-    - Computer cience student <br><br>
-    - Open to work! <br><br>
-    - Coddgin in JAVA for Spigot <br><br>
-    - Improving my skills everyday <br><br>
-    - Current project: "Nova-Requiem"
-    </h3> 
+    <h4> 
+        - Computer Science Student | Open to Work | Java Developer <br><br>
+        - Currently developing Nova-Requiem (Spigot plugin) <br><br>
+        - Daily improving my Java and software development skills <br><br>
+        - Specializing in Minecraft plugin development (Spigot/Bukkit) <br><br>
+        - Seeking opportunities in backend development and game systems <br><br>
+    </h4> 
 <br></p>
 
 
