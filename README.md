@@ -10,8 +10,8 @@
     <h3> 
     - Computer cience student <br><br>
     - Open to work! <br><br>
-    - Coddgin in JAVA for Spigot  <br><br>
-    - Improving my skills everyday
+    - Coddgin in JAVA for Spigot <br><br>
+    - Improving my skills everyday <br><br>
     - Current project: "Nova-Requiem"
     </h3> 
 <br></p>
