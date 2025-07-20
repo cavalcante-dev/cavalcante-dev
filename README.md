@@ -17,8 +17,6 @@
     <h4> 
         - Computer Science Student | Open to Work | Java Developer <br><br>
         - Daily improving my Java and software development skills <br><br>
-        - Specializing in Minecraft plugin development (Spigot/Bukkit) <br><br>
-        - Seeking opportunities in backend development and game systems <br><br>
     </h4> 
 <br></p>
 
