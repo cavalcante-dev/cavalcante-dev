@@ -15,8 +15,8 @@
 
 <p>
     <h4> 
-        - Computer Science Student | Open to Work | Java Developer <br><br>
-        - Daily improving my Java and software development skills <br><br>
+        - Computer Science Student | Open to Work | Fullstack Developer <br><br>
+        - Daily improving my and software development skills <br><br>
     </h4> 
 <br></p>
 
@@ -31,4 +31,5 @@
 
 <img width="100%" src="https://media1.tenor.com/m/K0_Toybd0QsAAAAd/disco-elysium-two-birds-on-a-wire.gif" align="center" /> <br>    
 </p>
+
 
